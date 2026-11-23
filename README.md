@@ -1,7 +1,9 @@
 # Web Application Authentication Security Assessment Tool
 
-Final Year Project, Bachelor in Computer Science (Cyber Security), UNITEN
+Final Year Project, Bachelor in Computer Science (Cyber Security), UNITEN 
+
 Student: Jeremiah Moses (CS01085913)
+
 Supervisor: Prof. Ts. Dr. Salman bin Yussof
 
 A tool for security testers to check a login page for five common weaknesses:
